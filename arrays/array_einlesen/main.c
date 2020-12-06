@@ -4,10 +4,12 @@
 * Autor: Kevin Bischof							*
 * Datum: 05.01.2017								*
 ************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 #include "arrayFunctions.h"
+
 int main() 
 {
 	int i = 0;
